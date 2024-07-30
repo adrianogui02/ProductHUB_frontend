@@ -4,7 +4,7 @@ Bem-vindo ao ProductHUB Frontend. Este projeto é a interface do usuário para g
 
 ## Stack utilizada
 
-**Front-end:** Vite, Vue 3, TypeScript
+**Front-end:** Vue 3, TypeScript
 
 ## Funcionalidades
 
