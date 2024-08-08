@@ -42,6 +42,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
 
    ```bash
    cd ProductHUB_frontend
+   cd frontend
    ```
 
 1. **Usando Docker**
